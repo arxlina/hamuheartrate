@@ -4,7 +4,7 @@ import time
 
 # Pulsoid and Discord webhook details
 PULSOID_TOKEN = "b126df8a-bfe4-4b92-97aa-d9fcb88f813a" 
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1332540441882525706/PYh5cdXs5HSppyc944yqwfky0Fr5OPvfSaYI-k_Yp-rWi_MaQFCWHNWyiYPVB9mh3qqD"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1332543735187247194/hqNChwhR1Sd_VkzcL8mwWFEGJ62J9ZL7TtIGB0awapr_UVQRhdMXTZwblwPed27yeJ67"
 
 def fetch_heart_rate():
     """Fetch heart rate data from Pulsoid API."""
